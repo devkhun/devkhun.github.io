@@ -12,11 +12,23 @@ main:
     url: /sitemap/
 
 sidebar-category:
-  - title: "카테고리"
+  - title: "PHP"
     children:
-      - title: "블로그"
-        url: "/blog"
-      - title: "카테고리B"
-        url: /CategoryB
-      - title: "카테고리C"
-        url: /CategoryC
+      - title: "Basic"
+        url: "/php-basic"
+  - title: "PYTHON"
+      children:
+        - title: "Basic"
+          url: "/python-basic"
+  - title: "JAVA"
+      children:
+        - title: "Basic"
+          url: "/java-basic"
+        - title: "Spring"
+          url: "/java-spring-basic"
+        - title: "SpringBoot"
+          url: "/java-spring-boot-basic"
+  - title: "KOTLIN"
+      children:
+        - title: "Basic"
+          url: "/kotlin-basic"
