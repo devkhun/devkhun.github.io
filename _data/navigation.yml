@@ -17,18 +17,18 @@ sidebar-category:
       - title: "Basic"
         url: "/php-basic"
   - title: "PYTHON"
-      children:
-        - title: "Basic"
-          url: "/python-basic"
+    children:
+      - title: "Basic"
+        url: "/python-basic"
   - title: "JAVA"
-      children:
-        - title: "Basic"
-          url: "/java-basic"
-        - title: "Spring"
-          url: "/java-spring-basic"
-        - title: "SpringBoot"
-          url: "/java-spring-boot-basic"
+    children:
+      - title: "Basic"
+        url: "/java-basic"
+      - title: "Spring"
+        url: "/java-spring-basic"
+      - title: "SpringBoot"
+        url: "/java-spring-boot-basic"
   - title: "KOTLIN"
-      children:
-        - title: "Basic"
-          url: "/kotlin-basic"
+    children:
+      - title: "Basic"
+        url: "/kotlin-basic"
