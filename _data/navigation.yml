@@ -12,23 +12,27 @@ main:
     url: /sitemap/
 
 sidebar-category:
+  - title: "git"
+    children:
+      - title: "Basic"
+        url: /categories/git_basic
   - title: "PHP"
     children:
       - title: "Basic"
-        url: "/php-basic"
+        url: /categories/php_basic
   - title: "PYTHON"
     children:
       - title: "Basic"
-        url: "/python-basic"
+        url: /categories/python_basic
   - title: "JAVA"
     children:
       - title: "Basic"
-        url: "/java-basic"
+        url: /categories/java_basic
       - title: "Spring"
-        url: "/java-spring-basic"
+        url: /categories/java_spring_basic
       - title: "SpringBoot"
-        url: "/java-spring-boot-basic"
+        url: /categories/java_spring_boot_basic
   - title: "KOTLIN"
     children:
       - title: "Basic"
-        url: "/kotlin-basic"
+        url: /categories/kotlin_basic
