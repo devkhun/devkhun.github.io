@@ -26,10 +26,10 @@ sidebar-category:
 #    children:
 #      - title: "Basic"
 #        url: /categories/python_basic
-#  - title: "JAVA"
-#    children:
-#      - title: "Basic"
-#        url: /categories/java_basic
+  - title: "JAVA"
+    children:
+      - title: "Basic"
+        url: /categories/java_basic
 #      - title: "Spring"
 #        url: /categories/java_spring_basic
 #      - title: "SpringBoot"
