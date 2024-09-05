@@ -4,6 +4,8 @@ categories:
   - git_basic
 tags:
   - git
+toc: true
+toc_sticky: true
 ---
 
 ### Git .gitignore 적용하기
