@@ -1,9 +1,7 @@
 ---
 title: "Git remote url 확인하기"
-categories:
-  - git_basic 
-tags:
-  - git
+categories: [Junk, Git]
+tags: [git]
 toc: true
 toc_sticky: true
 ---

@@ -1,9 +1,7 @@
 ---
 title: "Git author 변경하기"
-categories:
-  - git_basic 
-tags:
-  - git
+categories: [Junk, Git]
+tags: [Git]
 toc: true
 toc_sticky: true
 ---

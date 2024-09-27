@@ -1,9 +1,7 @@
 ---
 title: "Git .gitignore 적용하기"
-categories:
-  - git_basic
-tags:
-  - git
+categories: [Junk, Git]
+tags: [git]
 toc: true
 toc_sticky: true
 ---
