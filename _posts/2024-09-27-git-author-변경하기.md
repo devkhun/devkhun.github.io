@@ -1,15 +1,16 @@
 ---
 title: "Git author 변경하기"
 categories:
- - git_basic 
+  - git_basic 
 tags:
- - git
- toc: true
- toc_sticky: true
+  - git
+toc: true
+toc_sticky: true
 ---
 
-### Git author 변경하기
+# Git author 변경하기
 * 만약 git log의 3번째 커밋의 author를 변경하고 싶은 경우 ?
+
 ```
 $ git rebase -i HEAD~3 # 3번째 커밋을 변경하고자함
 
