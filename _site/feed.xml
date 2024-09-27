@@ -1,0 +1,253 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>하루 한 줄 코드</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-09-27T12:12:00+09:00</updated>
+  <author>
+    <name>devkhun</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <rights> © 2024 devkhun </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>[Jekyll] jekyll 로컬서버 실행하기</title>
+    <link href="http://localhost:4000/posts/jekyll-%EB%A1%9C%EC%BB%AC%EC%84%9C%EB%B2%84-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/" rel="alternate" type="text/html" title="[Jekyll] jekyll 로컬서버 실행하기" />
+    <published>2024-09-27T00:00:00+09:00</published>
+  
+    <updated>2024-09-27T12:05:50+09:00</updated>
+  
+    <id>http://localhost:4000/posts/jekyll-%EB%A1%9C%EC%BB%AC%EC%84%9C%EB%B2%84-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/</id>
+    <content src="http://localhost:4000/posts/jekyll-%EB%A1%9C%EC%BB%AC%EC%84%9C%EB%B2%84-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/" />
+    <author>
+      <name>devkhun</name>
+    </author>
+
+  
+    
+    <category term="Junk" />
+    
+    <category term="Jekyll" />
+    
+  
+
+  <summary>📌 jekyll 로컬서버 실행하기
+
+  내가 작업하다가 계속 명령어 까먹어서 기록중…  
+명령어 기억하는건 너무너무 힘들다
+
+
+✅ Jekyll 설치가 먼저 되어있어야함
+jekyll -v
+
+
+
+
+  jekyll가 정상적으로 설치되어있다면 위 이미지처럼 뜰 것!
+
+
+✅ Jekyll가 설치되어있지 않다면 아래 명령어로 설치!
+gem install jekyll bundler
+
+
+✅ Bundler로 의존성 설치하기
+Gemfile이 있는 경우 Bundler를 사용해서 필요한 gem을 설치
+bundle install
+
+근데 나는 위 명령어를 치니깐 아래와 같은 에러 발생!
+
+Could not find compatible versions
+
+Because every version of jekyll-theme-chirp...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Git author 변경하기</title>
+    <link href="http://localhost:4000/posts/git-author-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0/" rel="alternate" type="text/html" title="Git author 변경하기" />
+    <published>2024-09-27T00:00:00+09:00</published>
+  
+    <updated>2024-09-27T12:05:50+09:00</updated>
+  
+    <id>http://localhost:4000/posts/git-author-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0/</id>
+    <content src="http://localhost:4000/posts/git-author-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0/" />
+    <author>
+      <name>devkhun</name>
+    </author>
+
+  
+    
+    <category term="Junk" />
+    
+    <category term="Git" />
+    
+  
+
+  <summary>Git author 변경하기
+
+  만약 git log의 3번째 커밋의 author를 변경하고 싶은 경우 ?
+
+
+$ git rebase -i HEAD~3 # 3번째 커밋을 변경하고자함
+
+# vi 화면이 뜨면
+# pick -&amp;amp;gt; e 로 변경하고 :wq로 저장 &amp;amp;amp; 종료
+
+$ git commit --amend --author=&amp;quot;{username} &amp;amp;lt;{useremail}&amp;amp;gt;&amp;quot;
+
+# 또 vi 화면이 뜸
+# 이때 변경 된 author 내용 확인 후 :wq 
+
+$ git rebase --conitnue 
+$ git push -f origin main
+
+
+
+  후,, 현재 다니는 회사가 이런거에 너무 빡빡해서 너무 스트레스 !</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>카프카의 주요 개념 및 용어</title>
+    <link href="http://localhost:4000/posts/%EC%B9%B4%ED%94%84%EC%B9%B4-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EC%9A%A9%EC%96%B4/" rel="alternate" type="text/html" title="카프카의 주요 개념 및 용어" />
+    <published>2024-09-05T00:00:00+09:00</published>
+  
+    <updated>2024-09-27T12:05:50+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EC%B9%B4%ED%94%84%EC%B9%B4-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EC%9A%A9%EC%96%B4/</id>
+    <content src="http://localhost:4000/posts/%EC%B9%B4%ED%94%84%EC%B9%B4-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EC%9A%A9%EC%96%B4/" />
+    <author>
+      <name>devkhun</name>
+    </author>
+
+  
+    
+    <category term="Junk" />
+    
+    <category term="Kafka" />
+    
+  
+
+  <summary>주요 개념 및 용어
+
+
+  KafkaCluster
+    
+      카프카의 브로커(broker)들의 모임 =&amp;amp;gt; 확장성과 고가용성을 위해서 borker들이 클러스터로 구성
+      보통 3개 이상으로 구성하는 것을 권장한다고 한다
+      설정은 어떻게..? 하는거지? =&amp;amp;gt; 찾아보니 설정 파일로 조정하는게 아니라 실제로 추가하거나 제거하는 작업을 해야한다고 함! 어렵구먼
+    
+  
+  Broker
+    
+      각각의 카프카 서버
+    
+  
+  Zookeeper
+    
+      카프카 클러스터 정보 및 분산처리 관리 등 메타데이터 저장
+      곧 카프카 클러스터랑 통합 예정이라는데 언제쯤..?
+    
+  
+  Producer
+    
+      메세지를 발행하여 생...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>카프카란 무엇일까?</title>
+    <link href="http://localhost:4000/posts/%EC%B9%B4%ED%94%84%EC%B9%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C/" rel="alternate" type="text/html" title="카프카란 무엇일까?" />
+    <published>2024-09-03T00:00:00+09:00</published>
+  
+    <updated>2024-09-27T12:05:50+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EC%B9%B4%ED%94%84%EC%B9%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C/</id>
+    <content src="http://localhost:4000/posts/%EC%B9%B4%ED%94%84%EC%B9%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C/" />
+    <author>
+      <name>devkhun</name>
+    </author>
+
+  
+    
+    <category term="Junk" />
+    
+    <category term="Kafka" />
+    
+  
+
+  <summary>실무에서 아파치카프카를 사용하여 대량의 이벤트를 처리하고 있다. 
+대~강 대용량 데이터를 처리하기 위한 큐 정도로만 알고 있었는데 
+실제로 사용해보니 개념을 정확하게 알아야 카프카를 100% 활용할 수 있을거라고 생각했다.
+
+
+카프카란 ?
+
+  정식 명칭은 아파치카프카(Apache Kafka)
+  분산형 스트리밍 플랫폼
+  대량의 데이터를 안정적이고 실시간으로 처리할 수 있도록 설계
+  한마디로 성능과 기능이 좋은 큐(Queue)
+
+
+발행-구독 모델
+
+  Publisher : 발행자
+  broker : 카프카 =&amp;amp;gt; KafkaCluster
+  Consumer : 구독자
+  데이터를 발행자가 직접 구독자에게 보내는 형태가 아니고
+  발행자는 데이터를 구독시스템에 보내고 보낸 데이터를 저장하는 중계역할...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Git 연동하기</title>
+    <link href="http://localhost:4000/posts/git-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/" rel="alternate" type="text/html" title="Git 연동하기" />
+    <published>2024-09-02T00:00:00+09:00</published>
+  
+    <updated>2024-09-27T12:05:50+09:00</updated>
+  
+    <id>http://localhost:4000/posts/git-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/</id>
+    <content src="http://localhost:4000/posts/git-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/" />
+    <author>
+      <name>devkhun</name>
+    </author>
+
+  
+    
+    <category term="Junk" />
+    
+    <category term="Git" />
+    
+  
+
+  <summary>Git 연동하기
+
+  git clone 받은 후
+  clone 받은 디렉토리 이동 후 아래 명령어 실행
+    $ git init
+$ git add README.md
+$ git commit -m &amp;quot;first commit&amp;quot;
+$ git remote add origin [GIT URL]
+$ git push -u origin main
+    
+  
+  로컬환경에 git이 설치되어있는 경우에 위 명령어 실행 가능</summary>
+
+  </entry>
+
+</feed>
+
+
