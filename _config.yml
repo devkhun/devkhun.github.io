@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 하루 한 줄 코드 # the main title
+title: 하루 한 줄 코드 test # the main title
 
 tagline: 공부하는 웹 개발자 # it will display as the subtitle
 
