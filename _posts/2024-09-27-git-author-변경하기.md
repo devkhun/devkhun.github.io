@@ -1,5 +1,5 @@
 ---
-title: "Git author 변경하기"
+title: "[Git] git author 변경하기"
 categories:
   - git_basic 
 tags:
