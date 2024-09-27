@@ -18,6 +18,8 @@ sidebar-category:
         url: /categories/git_basic
       - title: "Kafka"
         url: /categories/kafka_basic
+      - title: "잡동사니"
+        url: /categories/junk
 #  - title: "PHP"
 #    children:
 #      - title: "Basic"
