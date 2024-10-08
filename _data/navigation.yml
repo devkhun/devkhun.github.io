@@ -15,19 +15,19 @@ sidebar-category:
   - title: "알쓸신잡"
     children:
       - title: "Git"
-        url: /categories/git_basic
+        url: /categories/git
       - title: "Kafka"
-        url: /categories/kafka_basic
+        url: /categories/kafka
       - title: "잡동사니"
         url: /categories/junk
 #  - title: "PHP"
 #    children:
 #      - title: "Basic"
 #        url: /categories/php_basic
-#  - title: "PYTHON"
-#    children:
-#      - title: "Basic"
-#        url: /categories/python_basic
+  - title: "PYTHON"
+    children:
+      - title: "Basic"
+        url: /categories/python_basic
 #  - title: "JAVA"
 #    children:
 #      - title: "Basic"
