@@ -7,9 +7,9 @@ entries_layout: grid
 classes: wide
 ---
 
-| GitHub   | [https://github.com/devkhun](https://github.com/devkhun)    |
-| Blog     | [https://devkhun.github.io/](https://devkhun.github.io/)    |
-| Email    | devkhun@gmail.com                                            |
+💻 GitHub: [https://github.com/devkhun](https://github.com/devkhun)   
+🏠 Blog: [https://devkhun.github.io/](https://devkhun.github.io/)   
+📧 Email: devkhun@gmail.com
 
 # Work Experiences
 ## NHN COMMERCE
