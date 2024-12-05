@@ -3,10 +3,9 @@ title: "[Mysql] mysql ZWNBSP 문자열 제거하기"
 categories:
   - junk
 tags:
-  - javascript
-  - bootstrap
-  - spinner
-  - loading
+  - sql
+  - mysql
+  - query
 toc: true
 toc_sticky: true
 ---
