@@ -13,7 +13,6 @@ classes: wide
 🏠 Blog: [https://devkhun.github.io/](https://devkhun.github.io/)
 
 ---
-
 ## 👨‍💻 나를 요약해보자!
 10년 이상의 경력을 보유한 **백엔드 개발자**로,    
 `PHP`, `Java Spring Boot`, `Kotlin`, `Python` 등 다양한 언어와    
@@ -29,7 +28,6 @@ classes: wide
 협업을 통해 프로젝트 성공을 이끌어 왔습니다.
 
 ---
-
 ## 🛠️ 주요 기술 스택
 언어: PHP, Java, Kotlin, Python   
 프레임워크: Spring Boot, Spring Framework   
@@ -38,7 +36,6 @@ classes: wide
 기타: Docker, Kubernetes, Git, Jenkins, AWS, Elasticsearch
 
 ---
-
 ## 💼 경력사항
 # Work Experiences
 ## NHN COMMERCE
@@ -48,11 +45,9 @@ classes: wide
 ## 나누리
 
 ---
-
 ## 🏅 자격사항
 
 ---
-
 ## 📝 간단한 자기소개서
 저는 기획자와의 원활한 소통을 통해 기술적 한계를 넘어서며,   
 비즈니스 목표를 달성하는 데 중점을 둔 개발자입니다.   
