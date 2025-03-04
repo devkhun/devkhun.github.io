@@ -50,7 +50,7 @@ _해외개발본부/주임(계장)_
 _개발팀/대리(팀원)_
 
 - **B2B Market / B2B Market 관리자**
-  - [https://snssell.com/shop/index.html](https://snssell.com/shop/index.html)
+  - [https://snssell.com/shop/index.html](https://snssell.com/shop/index.html){:target="_blank"}
   - 프로젝트 기간 : 2018.01 ~ 2018.01
   - 기술 스택 : PHP Lumen 프레임워크, MariaDB, jQuery, Git
   - 프로젝트 설명
@@ -80,7 +80,7 @@ _개발팀/대리(팀원)_
 _개발팀/사원_   
 
 - **부크크 유지보수 & 리뉴얼**
-  - [https://bookk.co.kr/](https://bookk.co.kr/)
+  - [https://bookk.co.kr/](https://bookk.co.kr/){:target="_blank"}
   - 프로젝트 기간 : 2017.01 ~ 2017.10
   - 기술 스택 : PHP, MySQL, jQuery, Angular
   - 프로젝트 설명
@@ -102,7 +102,7 @@ _개발팀/사원_
       - 관리자의 편의성을 높임
 
 - **리드앤톡 유지보수**
-  - [http://www.readandtalk.co.kr/](http://www.readandtalk.co.kr/)
+  - [http://www.readandtalk.co.kr/](http://www.readandtalk.co.kr/){:target="_blank"}
   - 프로젝트 기간 : 2016.10 ~ 2016.12
   - 기술 스택 : 그누보드, PHP, MySQL, Shell 스크립트, Cron
   - 프로젝트 설명
@@ -141,7 +141,7 @@ _개발팀/사원_
       - 사용자 관리 (초대장 수정, 삭제 등)
 
 - **재능마켓 사이트 개발 프로젝트**
-  - [www.nanuly.com](http://www.nanuly.com)
+  - [www.nanuly.com](http://www.nanuly.com){:target="_blank"}
   - 프로젝트 기간 : 2015.06 ~ 2015.11
   - 기술 스택 : PHP Laravel 프레임워크, mysql, jquery
   - 프로젝트 설명
