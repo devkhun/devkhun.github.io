@@ -1,12 +1,12 @@
 ---
-title: "Kafka"
+title: "Git"
 layout: archive
-permalink: categories/kafka_basic
+permalink: categories/git
 author_profile: true
 sidebar:
   nav: "sidebar-category"
 ---
 
 
-{% assign posts = site.categories.kafka_basic %}
+{% assign posts = site.categories.git %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

@@ -1,9 +1,11 @@
 ---
-title: "Git .gitignore 적용하기"
+title: "[Git] git .gitignore 적용하기"
 categories:
-  - git_basic
+  - git
 tags:
   - git
+toc: true
+toc_sticky: true
 ---
 
 ### Git .gitignore 적용하기
