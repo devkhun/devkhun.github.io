@@ -49,6 +49,20 @@ _해외개발본부/주임(계장)_
 ### 💻 유디아이디 (2017.10 - 2018.11)
 _개발팀/대리(팀원)_
 
+- **B2B Market / B2B Market 관리자**
+  - [https://snssell.com/shop/index.html](https://snssell.com/shop/index.html)
+  - 프로젝트 기간 : 2018.01 ~ 2018.01
+  - 기술 스택 : PHP Lumen 프레임워크, MariaDB, jQuery, Git
+  - 프로젝트 설명
+    - 블로그페이를 이용하는 상점들이 판매할 수 있도록 SNS 판매에 최적화된 제조업체/공급업체의 상품들을 모아놓은 서비스플랫폼
+  - 주요 업무
+    - 회원가입 & 로그인
+      - 소셜로그인(블로그페이 계정) 기능 구현
+    - 사용자
+      - 가져오기 기능을 이용하여 해당 상품을 내 상점에서 팔 수 있도록 기능 구현
+    - 관리자
+      - 블로그페이의 emoney로 해당 상품의 정산을 받을 수 있도록 기능 구현
+
 - **블로그페이, snssell 유지보수(상시)**
   - 기술 스택 : PHP Lumen 프레임워크, MariaDB, jQuery, Git
   - 개발 환경 : Linux(Ubuntu), Nginx
@@ -66,6 +80,7 @@ _개발팀/대리(팀원)_
 _개발팀/사원_   
 
 - **부크크 유지보수 & 리뉴얼**
+  - [https://bookk.co.kr/](https://bookk.co.kr/)
   - 프로젝트 기간 : 2017.01 ~ 2017.10
   - 기술 스택 : PHP, MySQL, jQuery, Angular
   - 프로젝트 설명
@@ -107,7 +122,7 @@ _개발팀/사원_
       - 보고서 페이지(report)를 한 번에 생성할 수 있도록 구현
 
 - **모바일초대장 사이트 개발 프로젝트**
-  - [http://www.nanu.ly](http://www.nanu.ly)   
+  - [http://www.nanu.ly](http://www.nanu.ly){:target="_blank"}
   - 프로젝트 기간 : 2015.12 ~ 2016.02
   - 기술 스택 : PHP Grav 프레임 워크, Sqlite, Jquery
   - 프로젝트 설명
@@ -126,7 +141,7 @@ _개발팀/사원_
       - 사용자 관리 (초대장 수정, 삭제 등)
 
 - **재능마켓 사이트 개발 프로젝트**
-  - www.nanuly.com
+  - [www.nanuly.com](http://www.nanuly.com)
   - 프로젝트 기간 : 2015.06 ~ 2015.11
   - 기술 스택 : PHP Laravel 프레임워크, mysql, jquery
   - 프로젝트 설명
