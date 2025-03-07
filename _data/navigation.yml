@@ -32,6 +32,8 @@ sidebar-category:
     children:
       - title: "Basic"
         url: /categories/java
+      - title: "코딩테스트"
+        url: /categores/study_java
 #      - title: "Spring"
 #        url: /categories/java_spring_basic
 #      - title: "SpringBoot"
