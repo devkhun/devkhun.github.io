@@ -15,7 +15,7 @@ classes: wide
 ---
 ## 👨‍💻 나를 요약해보자!
 10년 이상의 경력을 보유한 **백엔드 개발자**로,    
-`PHP`, `Java Spring Boot`, `Kotlin`, `Python` 등 다양한 언어와    
+`Java Spring Boot`, `Kotlin`, `Python` 등 다양한 언어와    
 `MySQL`, `ClickHouse`, `Redis` 등 다양한 데이터베이스를 다뤄본 경험이 있습니다.   
 최근에는 `Kafka`를 활용한 메시징 시스템 개발 경험도 쌓았습니다.
 
@@ -29,7 +29,7 @@ classes: wide
 
 ---
 ## 🛠️ 주요 기술 스택
-언어: PHP, Java, Kotlin, Python   
+언어: Java, Kotlin, Python   
 프레임워크: Spring Boot, Spring Framework   
 데이터베이스: MySQL, ClickHouse, Redis   
 메시징 시스템: Kafka   
@@ -82,7 +82,7 @@ _웹서비스개발팀/과장(파트장)_
 
 - **광고주센터 쿼리 튜닝 및 성능 최적화**
   - 프로젝트 기간 : 2022.04 ~ 2023.04
-  - 기술 스택 : Java (Spring Boot), MyBatis, PHP, MySQL, ClickHouse
+  - 기술 스택 : Java (Spring Boot), MyBatis, MySQL, ClickHouse
   - 프로젝트 설명
     - 쿼리 성능 개선을 위해 쿼리 튜닝
     - 데이터 집계를 최적화하여 시스템의 응답 속도와 처리 성능을 개선
@@ -99,7 +99,7 @@ _웹서비스개발팀/과장(파트장)_
 
 - **광고주센터 Home 위젯페이지**
   - 프로젝트 기간 : 2022.09 ~ 2022.10
-  - 기술 스택 : Java (Spring Boot), MyBatis, PHP, MySQL, jQuery
+  - 기술 스택 : Java (Spring Boot), MyBatis, MySQL, jQuery
   - 프로젝트 설명
     - 광고주센터의 데이터를 한눈에 요약해서 볼 수 있도록 위젯화 작업 프로젝트
   - 주요 업무
@@ -115,7 +115,7 @@ _웹서비스개발팀/과장(파트장)_
 
 - **성과관리**
   - 프로젝트 기간 : 2021.06 ~ 2021.09
-  - 기술 스택 : Java (Spring Boot), MyBatis, PHP, MySQL
+  - 기술 스택 : Java (Spring Boot), MyBatis, MySQL
   - 프로젝트 설명
     - 영업자와 어드민의 성과를 수치화하여 KPI별로 쉽게 확인하고 관리할 수 있는 성과 관리 시스템
     - 광고주의 성과를 한 페이지에서 실시간으로 확인 가능
@@ -135,7 +135,7 @@ _웹서비스개발팀/과장(파트장)_
 
 - **인사이트 마케팅 광고 제작**
   - 프로젝트 기간 : 2020.08 ~ 2020.09
-  - 기술 스택 : Java (Spring Boot), MyBatis, PHP, MySQL
+  - 기술 스택 : Java (Spring Boot), MyBatis, MySQL
   - 프로젝트 설명
     - 광고주가 원하는 인사이트 지면을 발급받을 수 있도록 하는 시스템
   - 주요 업무
@@ -150,7 +150,7 @@ _웹서비스개발팀/과장(파트장)_
       - 광고주가 디자인과 노출 위치 설정을 자유롭게 할 수 있도록 기능을 개발
 
 - **신규타겟팅 추가 & 일괄세팅 작업(상시)**
-  - 기술 스택 : PHP (CI 프레임워크), Java (Spring Boot), MyBatis, MySQL
+  - 기술 스택 : Java (Spring Boot), MyBatis, MySQL
   - 프로젝트 설명
     - 광고주 센터에 새로운 방식의 상품이나 타겟팅이 추가되면, 해당 내용을 광고주센터에 등록하는 작업
     - 광고 송출을 위해서는 이벤트나 상품이 존재해야 하는데,
@@ -320,7 +320,7 @@ _개발팀/사원_
 - **모바일초대장 사이트 개발 프로젝트**
   - [http://www.nanu.ly](http://www.nanu.ly){:target="_blank"}
   - 프로젝트 기간 : 2015.12 ~ 2016.02
-  - 기술 스택 : PHP Grav 프레임 워크, Sqlite, Jquery
+  - 기술 스택 : Java (Spring Boot), mysql, jquery, Thymeleaf
   - 프로젝트 설명
     - 사용자들이 쉽게 모바일 청첩장을 만들 수 있는 서비스를 제공하는 플랫폼을 개발한 프로젝트
     - 결혼 청첩장뿐만 아니라, 행사(돌잔치, 환갑, 회사 행사) 관련한 청첩장도 만들 수 있음
@@ -339,7 +339,7 @@ _개발팀/사원_
 - **재능마켓 사이트 개발 프로젝트**
   - [www.nanuly.com](http://www.nanuly.com){:target="_blank"}
   - 프로젝트 기간 : 2015.06 ~ 2015.11
-  - 기술 스택 : PHP Laravel 프레임워크, mysql, jquery
+  - 기술 스택 : Java (Spring Boot), mysql, jquery, Thymeleaf
   - 프로젝트 설명
     - 사용자들이 자신의 재능을 등록하고, 이를 통해 서비스를 제공할 수 있는 재능마켓 플랫폼을 개발한 프로젝트
     - 다양한 결제 시스템과 소셜 로그인 기능을 통해 사용자 경험을 개선
