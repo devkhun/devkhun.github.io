@@ -37,7 +37,7 @@ body {
   @include breakpoint($large) {
     float: inline-end;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-inline-end: $right-sidebar-width-narrow;
+    padding-inline-end: 120px;
   }
 
   @include breakpoint($x-large) {
