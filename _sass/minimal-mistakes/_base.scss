@@ -107,7 +107,8 @@ abbr[data-original-title] {
 /* blockquotes */
 
 blockquote {
-  margin-inline-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
   padding-inline: 1em;
   font-style: normal;
   border-inline-start: 0.25em solid $primary-color;
